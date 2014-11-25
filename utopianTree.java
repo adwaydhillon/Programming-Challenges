@@ -3,6 +3,8 @@
 * The second growth cycle occurs during the summer, when its height increases by 1 meter. 
 * Now, a new Utopian tree sapling is planted at the onset of the spring. Its height is 1 meter. 
 * Can you find the height of the tree after N growth cycles?
+* 
+* @ author Adway Dhillon
 */
 
 import java.io.*;
